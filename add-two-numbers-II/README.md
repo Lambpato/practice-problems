@@ -6,7 +6,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Example 1:
 
-https://assets.leetcode.com/uploads/2021/04/09/sumii-linked-list.jpg
+![alt text](image.png)
 
 Input: l1 = [7,2,4,3], l2 = [5,6,4]
 Output: [7,8,0,7]
